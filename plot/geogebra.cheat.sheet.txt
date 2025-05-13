@@ -1,0 +1,14 @@
+Special characters for  geogebra operators that are clunky to type in manually. Copy / paste !
+
+∧   Logical AND     (Unicode U+2227)
+∨   Logical OR      (Unicode U+2228)
+¬   NOT             (Unicode U+00AC)
+≤   Less or equal   (U+2264)
+≥   Greater or equal (U+2265)
+≠   Not equal       (U+2260)
+π   Pi              (U+03C0)
+√   Square root     (U+221A)
+∞   Infinity        (U+221E)
+→   Implies         (U+2192)
+↔   If and only if  (U+2194)
+
